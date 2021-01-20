@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 <file>..." to unstage)
 Creating a new branch is quick.
 再加一句
+Creating a new branch is quick AND simple.
